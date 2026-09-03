@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\bin\Debug\ConversaoDeTemperatura.exe.config
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\bin\Debug\ConversaoDeTemperatura.exe
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\bin\Debug\ConversaoDeTemperatura.pdb
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.frmPrincipal.resources
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.Properties.Resources.resources
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.exe
+C:\Users\Administrador\Documents\Renan\AulaC#\Aula7\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.pdb
